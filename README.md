@@ -1,8 +1,8 @@
-<center>
+<div align="center">
    <h1>又是一年</h1>
-   <strong>2026年春节</strong>
+   <p><strong>2026年春节</strong></p>
    <hr>
-</center>
+</div>
 
 > 没时间写README了，这里简单讲一下
 
